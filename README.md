@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kunalkatre1
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @Kunalkatre1
 
 <!---
